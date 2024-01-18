@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Screen Rant"
+            },
+            "author": "Angel Shaw",
+            "title": "10 Most Exciting Things To Expect From Gladiator 2",
+            "description": "Gladiator 2 will bring fans back to Ancient Rome for another brutal adventure, with several new and nostalgic elements ready to keep us &quot;entertained.&quot;",
+            "url": "https://screenrant.com/gladiator-2-exciting-what-to-expect/",
+            "urlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/11/the-hidden-meaning-behind-walter-white-s-name-in-breaking-bad-1.jpg",
+            "publishedAt": "2023-11-11T23:10:16Z",
+            "content": "Summary\r\n<ul><li> Gladiator 2 brings a brand new gladiator, Lucius, who steps aside from his role as heir to follow in Maximus' footsteps. Paul Mescal is a perfect fit for the role. </li><li> The seq\u2026 [+8941 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rlsbb.ru"
+            },
+            "author": "Kingman",
+            "title": "Leo Birenberg \u2013 Butcher\u2019s Crossing (Original Motion Picture Soundtrack) (2023)",
+            "description": "Tracklist:01 - Butcher's Crossing02 - Fall Hides03 - Once in a Lifetime04 - Will and Francine05 - Leaving Town06 - Traveling07 - The Valley08 - First Hunt09 - Supply Run10 - Skinning11 - Learning to Shoot12 - Don't Have the Stomach13 - Miller's Purpose14 - Do\u2026",
+            "url": "https://rlsbb.ru/leo-birenberg-butchers-crossing-original-motion-picture-soundtrack-2023/",
+            "urlToImage": null,
+            "publishedAt": "2023-11-28T14:13:07Z",
+            "content": "Tracklist:01 - Butcher's Crossing02 - Fall Hides03 - Once in a Lifetime04 - Will and Francine05 - Leaving Town06 - Traveling07 - The Valley08 - First Hunt09 - Supply Run10 - Skinning11 - Learning to \u2026 [+401 chars]"
+        },
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "Clark Collis",
+            "title": "Nicolas Cage may retire from movies after '3 or 4 more'",
+            "description": "Nicolas Cage is threatening to stop appearing in movies after just a handful more films.",
+            "url": "https://ew.com/nicolas-cage-retire-movies-8410458",
+            "urlToImage": "https://ew.com/thmb/Kaln9nueXpoH0fWp6ABw7rVFuUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Nicolas-Cage-120423-6a2b8f049d3e402c9d62d241a9e330be.jpg",
+            "publishedAt": "2023-12-04T19:55:27Z",
+            "content": "Nicolas Cage is a famously prolific actor who this year alone has been seen in more than a half dozen movies including the vampire comedy Renfield, the horror-thriller Sympathy for the Devil, the sup\u2026 [+2538 chars]"
+        }
+    ]
+}

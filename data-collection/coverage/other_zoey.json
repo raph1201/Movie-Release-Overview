@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Brit + Co"
+            },
+            "author": "Chloe Williams\u200b",
+            "title": "Watch Josephine Langford And Archie Renaux In This \"The Other Zoey\" Exclusive Clip",
+            "description": "We're always looking for a fun movie to watch while we prep our Thanksgiving appetizers, and the latest fall movie to hit our screens is The Other Zoey, which you can stream on demand November 10. The movie follows Zoey (Josephine Langford), who's convinced t\u2026",
+            "url": "https://www.brit.co/the-other-zoey-exclusive-clip/",
+            "urlToImage": "https://www.brit.co/media-library/josephine-langford-and-archie-renaux-in-this-the-other-zoey-exclusive-clip.png?id=50412164&width=1200&height=600&coordinates=0%2C58%2C213%2C121",
+            "publishedAt": "2023-11-07T17:00:01Z",
+            "content": "We're always looking for a fun movie to watch while we prep our Thanksgiving appetizers, and the latest fall movie to hit our screens is The Other Zoey, which you can stream on demand November 10. Th\u2026 [+983 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "IndieWire"
+            },
+            "author": "Tom Brueggemann",
+            "title": "David Fincher Finally Gets a Netflix Hit with \u2018The Killer\u2019",
+            "description": "At $5.99, \"Mission: Impossible \u2014 Dead Reckoning Part 1\" returns to #1 on VOD.",
+            "url": "https://www.indiewire.com/news/box-office/david-fincher-netflix-hit-the-killer-1234925880/",
+            "urlToImage": "https://www.indiewire.com/wp-content/uploads/2023/11/MATZ_R1_47_20221201cs_v14_DoVi_20230421.0097554.jpg",
+            "publishedAt": "2023-11-14T16:30:00Z",
+            "content": "As expected, Netflix had a quick hit on its hands this weekend: David Fincher\u2019s \u201cThe Killer\u201d was an immediate #1 on the streamer. Credit the genre and star Michael Fassbender for giving it a boost th\u2026 [+4099 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Decider"
+            },
+            "author": "mliss1578",
+            "title": "New Movies on Streaming: \u2018FOE,\u2019 \u2018Dumb Money,\u2019 + More",
+            "description": "...you also won't want to miss Daniel Radcliffe in Weird: The Al Yankovic Story, now streaming everywhere.",
+            "url": "https://decider.com/2023/11/10/new-movies-on-streaming-foe-dumb-money-more/",
+            "urlToImage": "https://decider.com/wp-content/uploads/2023/11/New-on-demand-NOV-10-2023-.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2023-11-10T16:00:00Z",
+            "content": "This weekend, there\u2019s a plethora of new movies on VOD, including dozens of new Hallmark holiday movies, as well as loads of dramas, comedies, an everything in between. At the top of our must-watch li\u2026 [+3636 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HuffPost"
+            },
+            "author": "Caroline Bologna",
+            "title": "This New Assassin Thriller Is The Top Movie On Netflix Right Now",
+            "description": "A 2016 buddy comedy and a new rom-com are also trending on streaming services like Hulu, Apple TV+, Max and Amazon Prime Video.",
+            "url": "https://www.huffpost.com/entry/the-killer-popular-netflix-movies_l_6551b497e4b0c9f24660bd5b",
+            "urlToImage": "https://img.huffingtonpost.com/asset/6551c952220000b71518dfdb.jpg?cache=7ooPznaFeE&ops=1200_630",
+            "publishedAt": "2023-11-13T14:41:51Z",
+            "content": "The Killer is currently the most popular movie on Netflix, according to the streaming services public ranking system.\r\nAn adaptation of the French graphic novel series Le Tueur, this new thriller fro\u2026 [+2588 chars]"
+        }
+    ]
+}
