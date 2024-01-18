@@ -1,2 +1,5 @@
-# Movie-Release-Overview
-Data Science final project. In-depth analysis of blockbuster Killers of the Flower Moon's media coverage using public API by NewsAPI.org.
+# Project Description
+COMP 370 final project 
+
+## Acknowledgments
+Thank you to Karen Fu, Jessie Xu, and Livesh Armoogum, my amazing teammates without whom this project would not have been possible.
